@@ -19,14 +19,14 @@ class TimeMap:
 
         while l <= r:
 
-            m = (l+r)//2
-            if values[m][0] == timestamp:
-                return values[m][1]
+            mid = (l+r)//2
+            if values[mid][0] == timestamp:
+                return values[mid][1]
 
-            if values[m][0] < timestamp:
-                res = values[m][1]
-                l = m + 1
+            if values[mid][0] < timestamp:
+                res = values[mid][1]
+                l = mid + 1
             else:
-                r = m - 1
+                r = mid - 1
 
         return res
