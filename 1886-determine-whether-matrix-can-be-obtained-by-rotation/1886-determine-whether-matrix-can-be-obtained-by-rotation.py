@@ -11,9 +11,7 @@ class Solution:
                 for i in range(r-l):
                     top, bottom = l, r
 
-
                     topLeft = matrix[top][l+i]
-
 
                     matrix[top][l+i] = matrix[bottom-i][l]
                     matrix[bottom-i][l] = matrix[bottom][r-i]
@@ -27,9 +25,7 @@ class Solution:
             
             return matrix
                 
-        
         rotated_mat = mat
-        
         for i in range(3):
             rotated_mat = rotation90(rotated_mat)
             if rotated_mat==target:
