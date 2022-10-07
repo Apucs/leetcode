@@ -3,7 +3,6 @@ class Solution:
         
         stack = []
         
-        # if len(s)<2: return False
         
         for c in s:
             if c=="(" or c=="{" or c=="[":
