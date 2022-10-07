@@ -1,7 +1,10 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        
+        
         if not matrix:
             return False
+        
         m = len(matrix)
         n = len(matrix[0])
         i = 0
