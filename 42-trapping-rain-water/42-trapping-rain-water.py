@@ -6,7 +6,6 @@ class Solution:
         left_high = right_high = 0
         ans = 0 
         
-        
         while left<=right:
             if left_high<=right_high:
                 
@@ -23,8 +22,7 @@ class Solution:
                     ans+=right_high - height[right]
                     
                 else:
-                    right_high = height[right]
-                    
+                    right_high = height[right]            
                 right -= 1
                 
         return ans
