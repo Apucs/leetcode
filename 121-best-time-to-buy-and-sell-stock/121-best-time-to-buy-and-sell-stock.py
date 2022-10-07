@@ -18,10 +18,7 @@ class Solution:
                 max_profit = max(max_profit, profit)
                 j+=1
             print(i, j, max_profit)
-                
-        
-                    
-                
+
         return max_profit
             
             
