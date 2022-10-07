@@ -22,6 +22,6 @@ class Solution:
             if nums[m]>=nums[l]:
                 l = m+1
             else:
-                r = m-1          
+                r = m-1       
             
         return min_val
