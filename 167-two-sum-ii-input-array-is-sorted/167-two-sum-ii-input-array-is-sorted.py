@@ -16,8 +16,8 @@ class Solution:
                 
         # print(diff)
         
-        for i, num in enumerate(numbers):
-            d = target-num
+        for i, n in enumerate(numbers):
+            d = target-n
             if (d in diff) and (i!=diff[d]):
                 # print([diff[d]+1, i+1])
                 return [diff[d]+1, i+1]
