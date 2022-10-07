@@ -9,9 +9,7 @@ class Solution:
             for i in range(r-l):
                 top, bottom = l, r
                 
-                
                 topLeft = matrix[top][l+i]
-                
                 
                 matrix[top][l+i] = matrix[bottom-i][l]
                 matrix[bottom-i][l] = matrix[bottom][r-i]
