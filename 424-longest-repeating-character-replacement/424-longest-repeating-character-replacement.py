@@ -13,7 +13,6 @@ class Solution:
         
         for r in range(len(s)):
             char_count[s[r]] = 1 + char_count.get(s[r], 0)
-            print(char_count)
             max_count = max(max_count, char_count[s[r]])
             
             if(r-l+1 - max_count)>k:
