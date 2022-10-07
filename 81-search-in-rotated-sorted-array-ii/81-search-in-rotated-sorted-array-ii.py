@@ -17,14 +17,14 @@ class Solution:
          
 
             if nums[l]<=nums[mid]:
-                print("left sorted array")
+                # print("left sorted array")
                 if target>nums[mid] or target<nums[l]:
                     l=mid+1
                 else:
                     r = mid-1
 
             else:
-                print("right sorted array")
+                # print("right sorted array")
                 if target<nums[mid] or target>nums[r]:
                     r=mid-1
                 else:
