@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 46** (<span style="color:green">Easy: 11</span>, <span style="color:orange">Medium: 29</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 47** (<span style="color:green">Easy: 12</span>, <span style="color:orange">Medium: 29</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -36,6 +36,7 @@
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | <a href="leetcode/00154_find-minimum-in-rotated-sorted-array-ii/154-find-minimum-in-rotated-sorted-array-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <a href="leetcode/00155_min-stack/155-min-stack.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <a href="leetcode/00167_two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href="leetcode/00217_contains-duplicate/217-contains-duplicate.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <a href="leetcode/00238_product-of-array-except-self/238-product-of-array-except-self.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <a href="leetcode/00239_sliding-window-maximum/239-sliding-window-maximum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
