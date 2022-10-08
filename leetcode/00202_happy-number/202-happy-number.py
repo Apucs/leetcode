@@ -4,9 +4,7 @@ class Solution:
         def square(num):
 
             sum = 0
-
             num = str(num)
-
             for i in range(len(num)):
                 sum += int(num[i])*int(num[i])
 
