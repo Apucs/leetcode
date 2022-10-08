@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 47** (<span style="color:green">Easy: 12</span>, <span style="color:orange">Medium: 29</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 48** (<span style="color:green">Easy: 13</span>, <span style="color:orange">Medium: 29</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | <a href="leetcode/00239_sliding-window-maximum/239-sliding-window-maximum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | <a href="leetcode/00240_search-a-2d-matrix-ii/240-search-a-2d-matrix-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <a href="leetcode/00242_valid-anagram/242-valid-anagram.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <a href="leetcode/00263_ugly-number/263-ugly-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <a href="leetcode/00347_top-k-frequent-elements/347-top-k-frequent-elements.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <a href="leetcode/00424_longest-repeating-character-replacement/424-longest-repeating-character-replacement.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <a href="leetcode/00567_permutation-in-string/567-permutation-in-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
