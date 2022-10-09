@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 50** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 30</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 51** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 31</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -21,6 +21,7 @@
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <a href="leetcode/00042_trapping-rain-water/42-trapping-rain-water.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | <a href="leetcode/00048_rotate-image/48-rotate-image.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <a href="leetcode/00049_group-anagrams/49-group-anagrams.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) |  | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <a href="leetcode/00054_spiral-matrix/54-spiral-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | <a href="leetcode/00059_spiral-matrix-ii/59-spiral-matrix-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | <a href="leetcode/00066_plus-one/66-plus-one.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
