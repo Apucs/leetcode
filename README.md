@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 49** (<span style="color:green">Easy: 13</span>, <span style="color:orange">Medium: 30</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 50** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 30</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -23,6 +23,7 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <a href="leetcode/00049_group-anagrams/49-group-anagrams.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | <a href="leetcode/00054_spiral-matrix/54-spiral-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | <a href="leetcode/00059_spiral-matrix-ii/59-spiral-matrix-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) |  | Easy |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | <a href="leetcode/00073_set-matrix-zeroes/73-set-matrix-zeroes.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <a href="leetcode/00074_search-a-2d-matrix/74-search-a-2d-matrix.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <a href="leetcode/00076_minimum-window-substring/76-minimum-window-substring.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
