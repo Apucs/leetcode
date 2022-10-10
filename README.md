@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 51** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 31</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 52** (<span style="color:green">Easy: 14</span>, <span style="color:orange">Medium: 32</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -19,6 +19,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <a href="leetcode/00033_search-in-rotated-sorted-array/33-search-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <a href="leetcode/00042_trapping-rain-water/42-trapping-rain-water.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | <a href="leetcode/00043_multiply-strings/43-multiply-strings.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | <a href="leetcode/00048_rotate-image/48-rotate-image.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <a href="leetcode/00049_group-anagrams/49-group-anagrams.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | <a href="leetcode/00050_powx-n/50-powx-n.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
