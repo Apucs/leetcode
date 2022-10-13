@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 56** (<span style="color:green">Easy: 17</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 57** (<span style="color:green">Easy: 18</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -40,6 +40,7 @@
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | <a href="leetcode/00154_find-minimum-in-rotated-sorted-array-ii/154-find-minimum-in-rotated-sorted-array-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | <a href="leetcode/00155_min-stack/155-min-stack.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <a href="leetcode/00167_two-sum-ii-input-array-is-sorted/167-two-sum-ii-input-array-is-sorted.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | <a href="leetcode/00190_reverse-bits/0190-reverse-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/0191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href="leetcode/00217_contains-duplicate/217-contains-duplicate.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
