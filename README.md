@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 57** (<span style="color:green">Easy: 18</span>, <span style="color:orange">Medium: 33</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 59** (<span style="color:green">Easy: 19</span>, <span style="color:orange">Medium: 34</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -50,8 +50,10 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | <a href="leetcode/00242_valid-anagram/242-valid-anagram.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <a href="leetcode/00263_ugly-number/263-ugly-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | <a href="leetcode/00264_ugly-number-ii/264-ugly-number-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | <a href="leetcode/00268_missing-number/0268-missing-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | <a href="leetcode/00338_counting-bits/0338-counting-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <a href="leetcode/00347_top-k-frequent-elements/347-top-k-frequent-elements.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <a href="leetcode/00371_sum-of-two-integers/0371-sum-of-two-integers.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | <a href="leetcode/00424_longest-repeating-character-replacement/424-longest-repeating-character-replacement.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | <a href="leetcode/00567_permutation-in-string/567-permutation-in-string.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | <a href="leetcode/00704_binary-search/704-binary-search.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
