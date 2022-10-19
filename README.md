@@ -4,13 +4,14 @@
 
 ## LeetCode
 
-**Problem Solved: 59** (<span style="color:green">Easy: 19</span>, <span style="color:orange">Medium: 34</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 60** (<span style="color:green">Easy: 19</span>, <span style="color:orange">Medium: 35</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href="leetcode/00001_two-sum/1-two-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <a href="leetcode/00003_longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <a href="leetcode/00004_median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | <a href="leetcode/00007_reverse-integer/0007-reverse-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <a href="leetcode/00011_container-with-most-water/11-container-with-most-water.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | <a href="leetcode/00015_3sum/15-3sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | <a href="leetcode/00016_3sum-closest/16-3sum-closest.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
