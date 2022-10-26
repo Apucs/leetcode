@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 62** (<span style="color:green">Easy: 20</span>, <span style="color:orange">Medium: 36</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 64** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 36</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -16,6 +16,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | <a href="leetcode/00015_3sum/15-3sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | <a href="leetcode/00016_3sum-closest/16-3sum-closest.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href="leetcode/00020_valid-parentheses/20-valid-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href="leetcode/00021_merge-two-sorted-lists/0021-merge-two-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <a href="leetcode/00022_generate-parentheses/22-generate-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <a href="leetcode/00033_search-in-rotated-sorted-array/33-search-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
@@ -45,6 +46,7 @@
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | <a href="leetcode/00191_number-of-1-bits/0191-number-of-1-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | <a href="leetcode/00202_happy-number/202-happy-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | <a href="leetcode/00203_remove-linked-list-elements/0203-remove-linked-list-elements.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | <a href="leetcode/00206_reverse-linked-list/0206-reverse-linked-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | <a href="leetcode/00217_contains-duplicate/217-contains-duplicate.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | <a href="leetcode/00237_delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | <a href="leetcode/00238_product-of-array-except-self/238-product-of-array-except-self.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
