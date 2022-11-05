@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 66** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 38</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 67** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 39</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -15,6 +15,7 @@
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <a href="leetcode/00011_container-with-most-water/11-container-with-most-water.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | <a href="leetcode/00015_3sum/15-3sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | <a href="leetcode/00016_3sum-closest/16-3sum-closest.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href="leetcode/00020_valid-parentheses/20-valid-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href="leetcode/00021_merge-two-sorted-lists/0021-merge-two-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <a href="leetcode/00022_generate-parentheses/22-generate-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
