@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 64** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 36</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 66** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 38</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -37,6 +37,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <a href="leetcode/00125_valid-palindrome/125-valid-palindrome.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <a href="leetcode/00128_longest-consecutive-sequence/128-longest-consecutive-sequence.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | <a href="leetcode/00136_single-number/0136-single-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <a href="leetcode/00143_reorder-list/0143-reorder-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <a href="leetcode/00150_evaluate-reverse-polish-notation/150-evaluate-reverse-polish-notation.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <a href="leetcode/00153_find-minimum-in-rotated-sorted-array/153-find-minimum-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | <a href="leetcode/00154_find-minimum-in-rotated-sorted-array-ii/154-find-minimum-in-rotated-sorted-array-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
@@ -71,5 +72,6 @@
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | <a href="leetcode/01886_determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | <a href="leetcode/01991_find-the-middle-index-in-array/1991-find-the-middle-index-in-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | <a href="leetcode/02013_detect-squares/2013-detect-squares.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | <a href="leetcode/02095_delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | <a href="leetcode/02226_maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 
