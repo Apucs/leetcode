@@ -4,11 +4,12 @@
 
 ## LeetCode
 
-**Problem Solved: 67** (<span style="color:green">Easy: 22</span>, <span style="color:orange">Medium: 39</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 70** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 41</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | <a href="leetcode/00001_two-sum/1-two-sum.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | <a href="leetcode/00002_add-two-numbers/0002-add-two-numbers.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | <a href="leetcode/00003_longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <a href="leetcode/00004_median-of-two-sorted-arrays/4-median-of-two-sorted-arrays.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | <a href="leetcode/00007_reverse-integer/0007-reverse-integer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
@@ -38,6 +39,8 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <a href="leetcode/00125_valid-palindrome/125-valid-palindrome.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <a href="leetcode/00128_longest-consecutive-sequence/128-longest-consecutive-sequence.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | <a href="leetcode/00136_single-number/0136-single-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <a href="leetcode/00138_copy-list-with-random-pointer/0138-copy-list-with-random-pointer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <a href="leetcode/00141_linked-list-cycle/0141-linked-list-cycle.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <a href="leetcode/00143_reorder-list/0143-reorder-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <a href="leetcode/00150_evaluate-reverse-polish-notation/150-evaluate-reverse-polish-notation.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <a href="leetcode/00153_find-minimum-in-rotated-sorted-array/153-find-minimum-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
