@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 70** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 41</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 71** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 42</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -61,6 +61,7 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | <a href="leetcode/00263_ugly-number/263-ugly-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | <a href="leetcode/00264_ugly-number-ii/264-ugly-number-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | <a href="leetcode/00268_missing-number/0268-missing-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | <a href="leetcode/00287_find-the-duplicate-number/0287-find-the-duplicate-number.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | <a href="leetcode/00338_counting-bits/0338-counting-bits.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | <a href="leetcode/00347_top-k-frequent-elements/347-top-k-frequent-elements.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | <a href="leetcode/00371_sum-of-two-integers/0371-sum-of-two-integers.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
