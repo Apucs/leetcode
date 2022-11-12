@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 71** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 42</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 72** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 43</span>, <span style="color:red">Hard: 6</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -42,6 +42,7 @@
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <a href="leetcode/00138_copy-list-with-random-pointer/0138-copy-list-with-random-pointer.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <a href="leetcode/00141_linked-list-cycle/0141-linked-list-cycle.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | <a href="leetcode/00143_reorder-list/0143-reorder-list.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | <a href="leetcode/00146_lru-cache/0146-lru-cache.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | <a href="leetcode/00150_evaluate-reverse-polish-notation/150-evaluate-reverse-polish-notation.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <a href="leetcode/00153_find-minimum-in-rotated-sorted-array/153-find-minimum-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | <a href="leetcode/00154_find-minimum-in-rotated-sorted-array-ii/154-find-minimum-in-rotated-sorted-array-ii.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
