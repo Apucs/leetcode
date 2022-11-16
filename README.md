@@ -4,7 +4,7 @@
 
 ## LeetCode
 
-**Problem Solved: 72** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 43</span>, <span style="color:red">Hard: 6</span>)
+**Problem Solved: 73** (<span style="color:green">Easy: 23</span>, <span style="color:orange">Medium: 43</span>, <span style="color:red">Hard: 7</span>)
 
 | # | Title | Solutions | Difficulty |
 | - | - | - | - |
@@ -20,6 +20,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <a href="leetcode/00020_valid-parentheses/20-valid-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <a href="leetcode/00021_merge-two-sorted-lists/0021-merge-two-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <a href="leetcode/00022_generate-parentheses/22-generate-parentheses.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | <a href="leetcode/00023_merge-k-sorted-lists/0023-merge-k-sorted-lists.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | <a href="leetcode/00033_search-in-rotated-sorted-array/33-search-in-rotated-sorted-array.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | <a href="leetcode/00036_valid-sudoku/36-valid-sudoku.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Medium |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <a href="leetcode/00042_trapping-rain-water/42-trapping-rain-water.py"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"></a> | Hard |
